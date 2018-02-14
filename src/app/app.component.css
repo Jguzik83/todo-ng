@@ -1,0 +1,12 @@
+.header {
+	text-align: center;
+}
+
+h1 {
+	color: darkblue;
+}
+
+h2 {
+	text-decoration: underline;
+	font-weight: bolder;
+}
