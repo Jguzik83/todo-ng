@@ -1,6 +1,14 @@
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+This is my first angular todo app. I am not going to lie I followed along with a youtube video.
+I will soon be posting my notes as finish editing them.
+
+## GIT NOTES
+
+More importantly this is my first attempt in a long time to refresh myself with the GIT workflow. We don't use VC at my job.
+It's more of a don't accidently delete because then its gone forever type of environment.
+I will also be publishing notes on my reconfiguration of my brain with GIT.
 
 ## Development server
 
